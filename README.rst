@@ -7,7 +7,7 @@ Mampoer
         :target: https://pypi.python.org/pypi/mampoer
 
 .. image:: https://img.shields.io/travis/zodimo/mampoer.svg
-        :target: https://travis-ci.com/zodimo/mampoer
+        :target: https://travis-ci.org/zodimo/mampoer
 
 .. image:: https://readthedocs.org/projects/mampoer/badge/?version=latest
         :target: https://mampoer.readthedocs.io/en/latest/?badge=latest
