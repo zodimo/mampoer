@@ -22,7 +22,7 @@ deploy:
     distributions: sdist bdist_wheel
     user: zodimo
     password:
-        secure: QwbHjVReQp9EqidiylRkpjpfS3XlOB4QaHMtUKOFCt0yC3bkc4L5MuEMmSC
+        secure: Ayb9mvc/PRK5v4lXM4CxIpj0O3RYrGUC+9eMxrnMbThESbHwAPSLtFkigVbgkkNbUsdX0SqQ/afnBasmau0o4/iw9fBUafWo/YDwM0trIP0FKWtkIWXgskFUH8y5A4GnhePwWIZi7BIhZ9e787cIbr3Zb36NrIuj7g0FADndBczHpFX/dxY1szatYyu/WrSo/Kj6pp7GK1us70hgUMTiff0m+oyqATAzr2RLpjpe3Ab5RkdwMjJV5pG/5ixRnE85C6WJpv2mmfF6k018xUJket8y9KO7QfUnqu9up+bVbN79YOBqXeKNrGEAlqnEwZYnylv3Jd8rEPcwPjF9WS1CXH18YftaFiNII5Y7fKqQK7LkXhVlArGirXUsY2wdsOJ1Ui5ucGYnUcpIil5m0xhVvfe1dXwES36zRKSEMsaziAyP0Gp/k02X1Iy5Fke3bjmC1TQuporRBh896Y9ZwoneVOb68pK22zRSLu3rta3tRD5FJhDvTKMVgGLF5ikXpWXdFsiPraakzTP9tnloVlrR9TxLcAfWqfwSLZZywl0JAiXoKAgB5yxArEEoyMBCkwXUBN2hy+/MBHYa0t1TL8WvU5uOsycG1SH+E1YJbwKwo/V5pP6gCpmdQv3GmDeW765s57V4AtT65g4V/jJYpdA0BzIZXAEEMmR1gKOpmhxN6Cg=
     on:
         tags: true
         repo: zodimo/mampoer
